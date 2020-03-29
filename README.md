@@ -2,7 +2,7 @@
 <img src="https://github.com/jpcirqueira/BeTheHero/blob/master/frontend/src/assets/logo.svg">
 </h1>
 
-## Projeto completo criado na Semana Omnistack 11.0, disponivel em: https://rocketseat.com.br/.
+## Projeto criado na Semana Omnistack 11.0, disponivel em: https://rocketseat.com.br/.
 
 ### Web:
 
